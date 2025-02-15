@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "alw9H2cZNvk4vKLQG7jFuheU5NGoyWmvBzFbvMXfmYM=",
+  "Source": "Flight.Booking.Back",
+  "BasePath": "_content/Flight.Booking.Back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
