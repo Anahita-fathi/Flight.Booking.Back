@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 0,
+    "Username": null,
+    "FlightId": 0,
+    "ReservationDate": "0001-01-01T00:00:00",
+    "Status": null
+  },
+  {
+    "Id": 2,
+    "Username": "admin",
+    "FlightId": 1,
+    "ReservationDate": "2025-02-17T17:30:19.7136094+03:30",
+    "Status": "Reserved"
+  }
+]

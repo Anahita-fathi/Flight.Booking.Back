@@ -31,3 +31,14 @@ D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\obj\Debug\net8.0\refint\F
 D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\obj\Debug\net8.0\Flight.Booking.Back.pdb
 D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\obj\Debug\net8.0\Flight.Booking.Back.genruntimeconfig.cache
 D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\obj\Debug\net8.0\ref\Flight.Booking.Back.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\obj\Debug\net8.0\Flight.Booking.Back.sourcelink.json
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\01-Projects\Flight.Booking.Back\Flight.Booking.Back\bin\Debug\net8.0\reservations.json
